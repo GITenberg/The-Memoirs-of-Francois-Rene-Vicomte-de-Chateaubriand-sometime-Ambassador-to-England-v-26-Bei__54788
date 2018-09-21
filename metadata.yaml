@@ -1,0 +1,42 @@
+_repo: The-Memoirs-of-Francois-Rene-Vicomte-de-Chateaubriand-sometime-Ambassador-to-England-v-26-Bei__54788
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixera de
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    - Teixeira de Mattos, Alexander Louis
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+  - agent_name: Chateaubriand, François-René, vicomte de
+    aliases:
+    - De Chateaubriand, François-René
+    - Chateaubriand, F.-A. de (François-Auguste)
+    - Chateaubriand, Francois-Rene, vicomte de
+    - Chateaubriand, François Auguste René, vicomte de
+    birthdate: 1768
+    deathdate: 1848
+    gutenberg_agent_id: '7255'
+    url: http://www.gutenberg.org/2009/agents/7255
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand
+    - http://en.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand
+description: ''
+gutenberg_issued: '2017-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: "The Memoirs of François René Vicomte de Chateaubriand sometime Ambassador\
+  \ to England. v 2/6\r\nBeing a Translation by Alexander Teixeira de Mattos of the\r\
+  \nMémoires d'outre-tombe"
+url: http://www.gutenberg.org/ebooks/54788
